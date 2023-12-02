@@ -1,0 +1,15 @@
+.editspan{
+    text-decoration: none;
+    color: black;
+}
+.dark-theme{
+    background-color: rgb(83, 80, 80);
+    color: white;
+}
+@media only screen and (max-width: 995px) {
+    
+    .darmmode{
+     
+     margin-left: 2px !important;
+    }
+  }
